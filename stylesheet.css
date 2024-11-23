@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+
+}
+
+body {
+
+    margin: 0.5rem;
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    border: 2px solid #ffd60a;
+    border-radius: 20px;
+    margin: 0 auto 1rem;
+    max-width: 750px;
+    background-color:rgb(255, 255, 255);
+
+}
+
+a {
+
+    text-decoration: none;
+
+}
+
+h2 {
+
+    background-color: gold;
+    border-radius: 0.75rem;
+    border-bottom-right-radius: 0.0025rem;
+    border-bottom-left-radius: 0.0025rem;
+
+}
+
+.lowline {
+
+    color: grey;
+
+}
+
+.lowline:hover {
+
+    text-decoration: underline;
+
+}
+
+li {
+    margin-top: 0.5rem;
+    list-style-type: none;
+    font-size: 24px;
+    
+}
+
+.html-course-link {
+
+    color: #e85f04;
+    transition: color 0.5s;
+    text-decoration: none;
+
+}
+
+.html-course-link:hover {
+
+    color: #fb8500;
+
+}
+
+.html-course-link:active {
+
+    color: #ffbf69;
+
+}
+
+.html-course-link:visited:active {
+
+    color: #ffbf69;
+
+}
+
+.html-course-link:visited {
+
+    color: #e85f04;
+
+}
+
+.html-course-link:visited:hover {
+
+    color: #fb8500;
+
+}
+
+.css-course-link {
+
+    color: #0077b6;
+    transition: color 0.25s;
+    text-decoration: none;
+}
+
+.css-course-link:hover {
+
+    color: #48cae4;
+
+}
+
+.css-course-link:active {
+
+    color: #90e0ef;
+
+}
+
+.css-course-link:visited {
+
+    color: #0077b6;
+
+}
+
+.javascript-course-link {
+
+    color: #ff9900;
+    transition: all 0.25s;
+    text-decoration: none;
+
+}
+
+.javascript-course-link:hover {
+
+    color: black;
+    background-color: gold;
+    font-size: 20px;
+
+}
+
+
+.typescript-course-link {
+
+    background-color: white;
+    color: #1982c4;
+    transition: all 0.15s;
+    text-decoration: none;
+
+}
+
+.typescript-course-link:hover {
+
+    color: white;
+    background-color: #1982c4;
+    font-style: italic;
+
+}
+
+.typescript-course-link:visited {
+
+    background-color: white;
+    color: #1982c4;
+
+}
+
+.typescript-course-link:visited:hover {
+
+    color: white;
+    background-color: #1982c4;
+    font-style: italic;
+
+}
+
+.react-course-link {
+
+    color: rgb(0, 183, 255);
+    transition: all 0.25s;
+    text-decoration: none;
+}
+
+.react-course-link:hover {
+
+    color: rgb(84, 207, 255);
+
+}
+
+.react-course-link:active {
+
+    color: rgb(2, 162, 224);
+
+}
+
+.react-course-link:visited {
+
+    color: rgb(0, 183, 255);
+
+}
+
+nav {
+
+    line-height: 6rem;
+
+}
