@@ -39,12 +39,14 @@ h2 {
 .lowline {
 
     color: grey;
+    transition: 0.25s;
 
 }
 
 .lowline:hover {
 
     text-decoration: underline;
+    color: blue;
 
 }
 
@@ -119,6 +121,15 @@ li {
 }
 
 .javascript-course-link {
+
+    color: #ffee00;
+    transition: all 0.25s;
+    text-decoration: none;
+
+}
+
+
+.javascript-course-link:visited {
 
     color: #ffee00;
     transition: all 0.25s;
