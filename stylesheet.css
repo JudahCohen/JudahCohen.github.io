@@ -39,6 +39,7 @@ h2 {
 .lowline {
 
     color: grey;
+    transition: 0.25s;
 
 }
 
