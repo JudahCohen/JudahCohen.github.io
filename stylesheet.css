@@ -45,6 +45,7 @@ h2 {
 .lowline:hover {
 
     text-decoration: underline;
+    color: blue;
 
 }
 
