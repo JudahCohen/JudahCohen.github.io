@@ -126,6 +126,15 @@ li {
 
 }
 
+
+.javascript-course-link:visited {
+
+    color: #fffb00;
+    transition: all 0.25s;
+    text-decoration: none;
+
+}
+
 .javascript-course-link:hover {
 
     color: black;
